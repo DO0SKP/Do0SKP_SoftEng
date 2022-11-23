@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "fWrYjqsiKqw2VirvJYJerAeoYMGsAYt50UYfOrw9tYU=",
+  "Source": "WebApplication_DO0SKP",
+  "BasePath": "_content/WebApplication_DO0SKP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication_DO0SKP\\wwwroot",
+      "Source": "WebApplication_DO0SKP",
+      "ContentRoot": "C:\\Users\\gerin\\source\\repos\\WebApplication_DO0SKP\\WebApplication_DO0SKP\\wwwroot\\",
+      "BasePath": "_content/WebApplication_DO0SKP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gerin\\source\\repos\\WebApplication_DO0SKP\\WebApplication_DO0SKP\\wwwroot\\index.html",
+      "SourceId": "WebApplication_DO0SKP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gerin\\source\\repos\\WebApplication_DO0SKP\\WebApplication_DO0SKP\\wwwroot\\",
+      "BasePath": "_content/WebApplication_DO0SKP",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

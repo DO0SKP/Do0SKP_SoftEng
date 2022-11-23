@@ -1,0 +1,11 @@
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\WebApplication_DO0SKP.exe
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\WebApplication_DO0SKP.dll
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\WebApplication_DO0SKP.deps.json
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\WebApplication_DO0SKP.runtimeconfig.json
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\WebApplication_DO0SKP.pdb
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gerin\source\repos\WebApplication_DO0SKP\WebApplication_DO0SKP\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
